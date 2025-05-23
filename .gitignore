@@ -1,0 +1,62 @@
+.env
+# Built Artifacts
+target/
+
+# IDEs and Editors
+*.iml
+*.iws
+*.ipr
+*.idea/
+*.vscode/
+*.project
+*.pydevproject
+
+# Operating System Generated Files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+.p2/
+.metadata/
+bin/
+tmp/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+.*~
+*.class
+.settings/
+.loadpath
+
+# IntelliJ
+.out/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/
+
+# Spring Boot
+*.jar
+*.war
+*.ear
+
+# Log Files
+*.log
+
+# Miscellaneous
+*.war!
+*.jar!
+*.ear!
+*.class
+*.pyc
+*.pyo
+__pycache__/
