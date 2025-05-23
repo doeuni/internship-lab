@@ -1,7 +1,8 @@
 # 🔐 Internship Lab
 > 인턴십 개인 과제: 사내 인증 시스템과 연동된 토큰 기반 API 요청 모듈 구현
 
-![image](https://github.com/user-attachments/assets/f361a2b5-23f2-4d7f-8f6c-c2ca8295d2d0)
+![image](https://github.com/user-attachments/assets/c6c80f7b-b221-4a30-a2e8-78631004c415)
+
 
 
 ---
@@ -18,9 +19,9 @@
 ---
 ## 🤍 과제개요 및 구체화
 
-![image](https://github.com/user-attachments/assets/46e6136b-cff5-4153-8b7b-ec3253212c1b)
-![image](https://github.com/user-attachments/assets/e132359f-44e4-4c76-8fb1-f5632f458742)
-![image](https://github.com/user-attachments/assets/db43d44e-12b7-4b9f-a082-eaf150d0dce1)
+![image](https://github.com/user-attachments/assets/c02973f1-249f-44d9-82cf-ca4d615d3219)
+![image](https://github.com/user-attachments/assets/14ee79a1-43f3-4546-930d-a6683217a7e1)
+![image](https://github.com/user-attachments/assets/092d84f8-87b5-4746-9ae7-c4dc45730844)
 
 
 
